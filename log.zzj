@@ -1,0 +1,15 @@
+
+> cloud-music@1.0.0 serve
+> vue-cli-service serve
+
+ INFO  Starting development server...
+ DONE  Compiled successfully in 5187ms下午8:56:28
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: unavailable
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+
